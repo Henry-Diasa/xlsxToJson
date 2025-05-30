@@ -1,0 +1,17 @@
+{
+  "name": "csv-to-json-translator",
+  "version": "1.0.0",
+  "description": "Convert Excel translation table to multiple language JSON files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5",
+    "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
